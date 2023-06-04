@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="create_group">Создать рецепт</string>
+    <string name="create_student">Добавить ингридиент</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="group_no">Название блюда</string>
+    <string name="group_faculty">Тип блюда(основное, десерт...)</string>
+
+    <string name="student_firstname">Название ингридиента</string>
+    <string name="student_lastname">-</string>
+    <string name="student_patronymic">Объем(количество)</string>
+    <string name="student_dateofbirth">Примерная цена</string>
+    <string name="empty_list">No elements</string>
+    <string name="search_student">Найти ингрдидиент</string>
+
+
+</resources>
