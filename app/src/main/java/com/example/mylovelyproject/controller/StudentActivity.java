@@ -39,7 +39,7 @@ public class StudentActivity extends AppCompatActivity {
 
         if (getSupportActionBar() != null) {
             if (searchLastName == null) {
-                getSupportActionBar().setTitle("Ингридиенты");
+                getSupportActionBar().setTitle("Ингредиенты");
             } else {
                 getSupportActionBar().setTitle("Search lastname: " + searchLastName);
             }
